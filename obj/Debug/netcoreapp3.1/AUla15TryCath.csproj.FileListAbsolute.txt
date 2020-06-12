@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\bin\Debug\netcoreapp3.1\AUla15TryCath.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\AUla15TryCath\obj\Debug\netcoreapp3.1\AUla15TryCath.genruntimeconfig.cache

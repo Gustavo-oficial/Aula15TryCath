@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AUla15TryCath/1.0.0": {
+        "runtime": {
+          "AUla15TryCath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AUla15TryCath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
